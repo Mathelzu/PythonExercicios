@@ -127,6 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# exercicios que eu nao quero que entre 
-ex001.py
