@@ -1,0 +1,22 @@
+print('Descubra a Tabuada!')
+n1 = int(input('Tabuada do: '))
+x1 = n1*1
+x2 = n1*2
+x3 = n1*3
+x4 = n1*4
+x5 = n1*5
+x6 = n1*6
+x7 = n1*7
+x8 = n1*8
+x9 = n1*9
+x10 = n1*10
+print(n1,'x 01 = ',x1)
+print(n1,'x 02 = ',x2)
+print(n1,'x 03 = ',x3)
+print(n1,'x 04 = ',x4)
+print(n1,'x 05 = ',x5)
+print(n1,'x 06 = ',x6)
+print(n1,'x 07 = ',x7)
+print(n1,'x 08 = ',x8)
+print(n1,'x 09 = ',x9)
+print(n1,'x 10 = ',x10)
