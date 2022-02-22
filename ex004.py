@@ -3,3 +3,4 @@ n1 = int(input('Insira o Número: '))
 soma = n1 + 1
 sub = n1 - 1
 print('Antecessor: {} \n Sucessor: {}'.format( sub, soma))
+#ou criar uma varial dentro do .format pra deixa-lo mais leve

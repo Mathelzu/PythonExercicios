@@ -20,3 +20,4 @@ print(n1,'x 07 = ',x7)
 print(n1,'x 08 = ',x8)
 print(n1,'x 09 = ',x9)
 print(n1,'x 10 = ',x10)
+#print('{} x {} = {}' .format(n1,2,n1*2) ) ou fazer as variaveis nois .format
