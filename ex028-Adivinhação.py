@@ -1,7 +1,10 @@
 import random
+from time import sleep
 num = random.randint(0,5)
 fazChute = True
 chute = int(input('Chute um número de 0 a 5: '))
+print('PROCESSANDO . . .')
+sleep(3)
 if chute > 5:
     fazChute = False
     print('Oxi, é números de 0 a 5 só!')
